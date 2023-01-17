@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-
+This was an interesting project to work on because it was essentially going back to basics on HTML. I also learned how to use a git repository through the unix system for the first time as well. I learned a lot about html in particular some things I wasn't as familar with such as lists and relative file paths used to display the images. 
